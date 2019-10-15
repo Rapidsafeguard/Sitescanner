@@ -10,7 +10,7 @@ tests_require = [
 
 setup(
     name='Sitescanner',
-    version=__version__,
+    #version=__version__,
     packages=[  'lib',
                 'lib.utils',
                 'lib.config',
