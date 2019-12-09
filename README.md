@@ -15,11 +15,13 @@ Python 3
 
 # How to use?
  ### for Linux
+
   Python3 sitescanner.py https://www.example.com  
  ### for Windows
   set python3 path in enviorment variable.
+  
   python sitescanner https://www.example.com
-
+  
 # Thanks 
 WAScan
  
