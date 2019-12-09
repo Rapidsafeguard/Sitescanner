@@ -22,6 +22,3 @@ Python 3
   
   python sitescanner https://www.example.com
   
-# Thanks 
-WAScan
- 
