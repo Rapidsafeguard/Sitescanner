@@ -14,7 +14,7 @@ Python 3
  pip install .
 
 # How to use?
- ###for Linux
+ ### for Linux
   Python3 sitescanner.py https://www.example.com  
  ### for Windows
   set python3 path in enviorment variable.
